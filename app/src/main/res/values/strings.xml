@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- String Resources - Portrait Orientation -->
+<resources>
+
+    <string name="app_name">MVP Sample App</string>
+
+    <!-- Main Activity -->
+    <string name="main_activity_title">Main Activity Portrait</string>
+
+</resources>

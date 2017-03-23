@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- String Resources - Landscape Orientation -->
+<resources>
+
+    <!-- Main Activity -->
+    <string name="main_activity_title">Main Activity Landscape</string>
+
+</resources>
